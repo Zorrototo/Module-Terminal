@@ -18,7 +18,6 @@ function exec_ogp_module() {
 		<li><form action='home.php?m=terminal&p=terminal' method='post'>
 		<input type='text' name='command' autofocus='autofocus'/>
 		<input type='submit' style='height: 0px; width: 0px; border: none; padding: 0px; margin: 0px;' hidefocus='true' /></form></li>
-		</ul>
-		</div>";
+		</ul></div>";
 }
 ?>
