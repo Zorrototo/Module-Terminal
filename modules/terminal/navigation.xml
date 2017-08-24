@@ -1,0 +1,3 @@
+<navigation>
+  <page key="terminal" file="shell_exec.php" access="admin" />
+</navigation>
